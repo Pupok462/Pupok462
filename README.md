@@ -6,7 +6,7 @@
 
 # :mailbox: Contact information:
 
-* EMail: novikov.vladimir@phystech.edu | vladimir.novikov76@gmail.com
+* Mail: novikov.vladimir@phystech.edu | vladimir.novikov76@gmail.com
 * VK: [raf_simons](https://vk.com/raf_simons)
 * Telegram: [@Pupok46](https://t.me/Pupok46)
 

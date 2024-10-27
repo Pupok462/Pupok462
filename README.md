@@ -1,13 +1,6 @@
-# Hello there! I'm Vova :wave:
-
-# Introduction 
-
-### I'm a student at MIPT Dpt. of Radio Engineering and Computer Technology.
-
 # :mailbox: Contact information:
 
-* Mail: novikov.vladimir@phystech.edu | vladimir.novikov76@gmail.com
-* VK: [raf_simons](https://vk.com/raf_simons)
+* Mail: dvustoronniy.treugolnik@yandex.ru | vladimir.novikov76@gmail.com
 * Telegram: [@Pupok46](https://t.me/Pupok46)
 
 # Languages and Tools:
@@ -20,8 +13,6 @@
 <a href="https://github.com/Pupok462/about_me">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pupok462&show_icons=true&locale=en" alt="pupok462"/>
 </a> 
-
-
 
 
 
